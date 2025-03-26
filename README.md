@@ -1,4 +1,4 @@
-#ATAC-seq Analysis in SMARCB1-Altered Bladder Cancer Cells
+*ATAC-seq Analysis in SMARCB1-Altered Bladder Cancer Cells*
 
 ##Overview
 
