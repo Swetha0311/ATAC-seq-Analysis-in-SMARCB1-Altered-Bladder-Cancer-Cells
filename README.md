@@ -1,6 +1,6 @@
-ATAC-seq Analysis in SMARCB1-Altered Bladder Cancer Cells
+"ATAC-seq Analysis in SMARCB1-Altered Bladder Cancer Cells"
 
-Overview
+"Overview"
 
 This repository contains the analysis workflow and results for studying chromatin accessibility changes in bladder cancer cells with SMARCB1 alterations using ATAC-seq data. The study aims to understand the impact of SMARCB1 on chromatin dynamics and its potential implications for cancer research and treatment.
 
